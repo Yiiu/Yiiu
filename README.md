@@ -12,13 +12,13 @@ https://soapphoto.com
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 13 mins
+Total Time: 10 hrs 27 mins
 
-TypeScript        4 hrs 36 mins   ██████████████████████░░░   88.12 %
-JSON              10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-JavaScript        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-HTML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Turtle            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript        7 hrs 14 mins   █████████████████▒░░░░░░░   69.21 %
+JSON              1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+JavaScript        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Turtle            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+textmate          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
