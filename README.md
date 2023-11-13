@@ -12,13 +12,13 @@ https://soapphoto.com
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 44 hrs 26 mins
+Total Time: 51 hrs 47 mins
 
-TypeScript       34 hrs 46 mins  ███████████████████▒░░░░░   77.59 %
-SQL              3 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Go               2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-JSON             1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-JavaScript       1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+TypeScript       34 hrs 23 mins  ████████████████▒░░░░░░░░   65.87 %
+Go               10 hrs 14 mins  █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+SQL              2 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+JSON             1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+GraphQL          1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
