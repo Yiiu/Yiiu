@@ -12,13 +12,9 @@ https://soapphoto.com
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 3 mins
+Total Time: 0 secs
 
-Go                46 mins         ██████████████████▒░░░░░░   73.20 %
-GraphQL           16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-go.mod            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
