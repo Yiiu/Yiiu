@@ -14,7 +14,8 @@ https://soapphoto.com
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Go     0 secs          ████████████████████▓░░░░   83.01 %
+TOML   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
 ```
 
 <!--END_SECTION:waka-->
