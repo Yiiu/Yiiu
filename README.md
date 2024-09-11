@@ -14,9 +14,11 @@ https://soapphoto.com
 ```txt
 Total Time: 6 mins
 
-TypeScript     5 mins          ███████████████████████▓░   94.53 %
-Shell Script   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript     5 mins          █████████████████████▓░░░   86.08 %
+Go             0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+Shell Script   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TOML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
