@@ -12,10 +12,9 @@ https://soapphoto.com
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 0 secs
 
-Go     11 mins         █████████████████████████   99.68 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
